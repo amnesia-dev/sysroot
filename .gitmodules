@@ -1,3 +1,6 @@
-[submodule "usr/include/CaptainHook"]
-	path = usr/include/CaptainHook
-	url = https://github.com/rpetrich/CaptainHook.git
+[submodule "theos/include"]
+	path = theos/include
+	url = https://github.com/theos/headers.git
+[submodule "theos/lib"]
+	path = theos/lib
+	url = https://github.com/theos/lib.git
