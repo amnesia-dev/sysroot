@@ -1,0 +1,3 @@
+[submodule "usr/include/CaptainHook"]
+	path = usr/include/CaptainHook
+	url = https://github.com/rpetrich/CaptainHook.git
